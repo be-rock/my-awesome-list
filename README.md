@@ -2,11 +2,12 @@
 
 - Python
   - Algoriths in Python: https://github.com/TheAlgorithms/Python
+  - Design Patterns: https://github.com/faif/python-patterns
   - Python Repository Structure: https://www.kennethreitz.org/essays/repository-structure-and-python
   - Cheat Sheet: https://github.com/crazyguitar/pysheeet
   - Data Sciene Handbook: https://jakevdp.github.io/PythonDataScienceHandbook/00.00-preface.html
-  - Think Sats: http://greenteapress.com/thinkstats2/html/index.html
-  
+
+
 - Books
   - Free tech books: https://github.com/EbookFoundation/free-programming-books
   
