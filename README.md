@@ -20,5 +20,8 @@
 - Spark
   - Mastering Spark: https://jaceklaskowski.gitbooks.io/mastering-apache-spark/
   
-- Productivity
+- Productivity & Learning
   - Pomodoro Timer: https://www.marinaratimer.com/
+  - Learn Anything in 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
+  
+  
