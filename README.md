@@ -5,7 +5,7 @@
   - Design Patterns: https://github.com/faif/python-patterns
   - Python Repository Structure: https://www.kennethreitz.org/essays/repository-structure-and-python
   - Cheat Sheet: https://github.com/crazyguitar/pysheeet
-  - Data Sciene Handbook: https://jakevdp.github.io/PythonDataScienceHandbook/00.00-preface.html
+  - Data Science Handbook: https://jakevdp.github.io/PythonDataScienceHandbook/00.00-preface.html
 
 
 - Books
