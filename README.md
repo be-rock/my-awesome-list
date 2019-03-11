@@ -7,7 +7,10 @@
   - Cheat Sheet: https://github.com/crazyguitar/pysheeet
   - Data Science Handbook: https://jakevdp.github.io/PythonDataScienceHandbook/00.00-preface.html
 
-
+- Misc Learning:
+  - https://www.codewars.com
+  - https://www.leetcode.com
+  
 - Books
   - Free tech books: https://github.com/EbookFoundation/free-programming-books
   
