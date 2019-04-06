@@ -1,7 +1,7 @@
 # my-awesome-list
 
 - Python    
-    - Algoriths in Python: https://github.com/TheAlgorithms/Python
+    - Algorithms in Python: https://github.com/TheAlgorithms/Python
     - Design Patterns: https://github.com/faif/python-patterns
     - Python Repository Structure: https://www.kennethreitz.org/essays/repository-structure-and-python
     - Cheat Sheet: https://github.com/crazyguitar/pysheeet
