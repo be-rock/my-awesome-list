@@ -24,6 +24,10 @@
     - Pomodoro Timer: https://www.marinaratimer.com/
     - Learn Anything in 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
   
+- Linux/Unix
+    - `tree` command: http://mama.indstate.edu/users/ice/tree/
+    - `bat` command: "a cat clone with wings" https://github.com/sharkdp/bat
+    
 - Misc Learning:
     - https://www.codewars.com
     - https://www.leetcode.com
