@@ -7,7 +7,9 @@
     - Cheat Sheet: https://github.com/crazyguitar/pysheeet
     - Data Science Handbook: https://jakevdp.github.io/PythonDataScienceHandbook/00.00-preface.html
     - Hitchiker's Guide to Python https://docs.python-guide.org/
-  
+
+- Scala
+    - Python to Scala https://wrobstory.gitbooks.io/python-to-scala/content/index.html
 - Books
     - Free tech books: https://github.com/EbookFoundation/free-programming-books
   
