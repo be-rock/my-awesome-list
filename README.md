@@ -10,6 +10,8 @@
 
 - Scala
     - Python to Scala https://wrobstory.gitbooks.io/python-to-scala/content/index.html
+    - Essential Scala https://books.underscore.io/essential-scala/essential-scala.html
+    
 - Books
     - Free tech books: https://github.com/EbookFoundation/free-programming-books
   
