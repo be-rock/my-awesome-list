@@ -19,7 +19,7 @@
     - How to Design Large-Scale Systems: https://github.com/donnemartin/system-design-primer
  
 - Git
-    - A successful git branching mode: https://nvie.com/posts/a-successful-git-branching-model/
+    - A successful git branching model: https://nvie.com/posts/a-successful-git-branching-model/
     - Git book: https://git-scm.com/book/en/v2
  
 - Spark
