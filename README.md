@@ -6,6 +6,7 @@
     - Python Repository Structure: https://www.kennethreitz.org/essays/repository-structure-and-python
     - Cheat Sheet: https://github.com/crazyguitar/pysheeet
     - Data Science Handbook: https://jakevdp.github.io/PythonDataScienceHandbook/00.00-preface.html
+    - Hitchiker's Guide to Python https://docs.python-guide.org/
   
 - Books
     - Free tech books: https://github.com/EbookFoundation/free-programming-books
