@@ -12,6 +12,10 @@
     - Python to Scala https://wrobstory.gitbooks.io/python-to-scala/content/index.html
     - Essential Scala https://books.underscore.io/essential-scala/essential-scala.html
     
+- Spark
+    - Mastering Spark: https://jaceklaskowski.gitbooks.io/mastering-apache-spark/
+    - Internals of Spark SQL: https://legacy.gitbook.com/book/jaceklaskowski/mastering-spark-sql/details
+    
 - Books
     - Free tech books: https://github.com/EbookFoundation/free-programming-books
   
@@ -21,9 +25,6 @@
 - Git
     - A successful git branching model: https://nvie.com/posts/a-successful-git-branching-model/
     - Git book: https://git-scm.com/book/en/v2
- 
-- Spark
-    - Mastering Spark: https://jaceklaskowski.gitbooks.io/mastering-apache-spark/
   
 - Productivity & Learning
     - Pomodoro Timer: https://www.marinaratimer.com/
