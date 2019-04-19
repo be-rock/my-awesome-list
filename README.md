@@ -6,7 +6,8 @@
     - Python Repository Structure: https://www.kennethreitz.org/essays/repository-structure-and-python
     - Cheat Sheet: https://github.com/crazyguitar/pysheeet
     - Data Science Handbook: https://jakevdp.github.io/PythonDataScienceHandbook/00.00-preface.html
-    - Hitchiker's Guide to Python https://docs.python-guide.org/
+    - Hitchiker's Guide to Python: https://docs.python-guide.org/
+    - Visualize code: http://pythontutor.com/visualize.html#mode=edit
 
 - Scala
     - Python to Scala https://wrobstory.gitbooks.io/python-to-scala/content/index.html
