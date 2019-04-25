@@ -11,6 +11,7 @@
 
 - Containers
     - https://github.com/wsargent/docker-cheat-sheet
+    - https://github.com/docker/labs
     
 - Scala
     - Python to Scala https://wrobstory.gitbooks.io/python-to-scala/content/index.html
@@ -19,12 +20,6 @@
 - Spark
     - Mastering Spark: https://jaceklaskowski.gitbooks.io/mastering-apache-spark/
     - Internals of Spark SQL: https://legacy.gitbook.com/book/jaceklaskowski/mastering-spark-sql/details
-    
-- Books
-    - Free tech books: https://github.com/EbookFoundation/free-programming-books
-  
-- Design
-    - How to Design Large-Scale Systems: https://github.com/donnemartin/system-design-primer
  
 - Git
     - A successful git branching model: https://nvie.com/posts/a-successful-git-branching-model/
@@ -37,11 +32,11 @@
 - Linux/Unix
     - `tree` command: http://mama.indstate.edu/users/ice/tree/
     - `bat` command: "a cat clone with wings" https://github.com/sharkdp/bat
-    
-- Cheatsheets
-    - `vim`: https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/vim.txt
-    - `bash`: https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh
+    - `vim` cheatsheet: https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/vim.txt
+    - `bash` cheatsheet: https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh
 
-- Misc Learning:
+- Misc:
+    - Free tech books: https://github.com/EbookFoundation/free-programming-books
+    - How to Design Large-Scale Systems: https://github.com/donnemartin/system-design-primer
     - https://www.codewars.com
     - https://www.leetcode.com
