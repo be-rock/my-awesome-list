@@ -9,6 +9,9 @@
     - Hitchiker's Guide to Python: https://docs.python-guide.org/
     - Visualize code: http://pythontutor.com/visualize.html#mode=edit
 
+- Containers
+    - https://github.com/wsargent/docker-cheat-sheet
+    
 - Scala
     - Python to Scala https://wrobstory.gitbooks.io/python-to-scala/content/index.html
     - Essential Scala https://books.underscore.io/essential-scala/essential-scala.html
@@ -35,6 +38,10 @@
     - `tree` command: http://mama.indstate.edu/users/ice/tree/
     - `bat` command: "a cat clone with wings" https://github.com/sharkdp/bat
     
+- Cheatsheets
+    - `vim`: https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/vim.txt
+    - `bash`: https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh
+
 - Misc Learning:
     - https://www.codewars.com
     - https://www.leetcode.com
