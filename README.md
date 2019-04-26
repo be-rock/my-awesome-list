@@ -10,7 +10,7 @@
 * Visualize code: http://pythontutor.com/visualize.html#mode=edit
 
 ### Containers
-* https://github.com/wsargent/docker-cheat-sheet
+* [Docker cheat sheet](https://github.com/wsargent/docker-cheat-sheet)
 * https://github.com/docker/labs
 * Kubernetes Cheatsheet: https://kubernetes.io/docs/reference/kubectl/cheatsheet/
     
