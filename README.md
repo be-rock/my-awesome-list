@@ -12,6 +12,7 @@
 ### Containers
 * https://github.com/wsargent/docker-cheat-sheet
 * https://github.com/docker/labs
+* Kubernetes Cheatsheet: https://kubernetes.io/docs/reference/kubectl/cheatsheet/
     
 ### Scala
 * Python to Scala https://wrobstory.gitbooks.io/python-to-scala/content/index.html
