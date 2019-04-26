@@ -39,6 +39,6 @@
 ### Misc
 * [Free tech books](https://github.com/EbookFoundation/free-programming-books)
 * [How to Design Large-Scale Systems](https://github.com/donnemartin/system-design-primer)
-* [https://www.codewars.com
-* [https://www.leetcode.com
+* https://www.codewars.com
+* https://www.leetcode.com
 
