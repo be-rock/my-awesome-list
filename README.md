@@ -8,6 +8,7 @@
 * [Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/00.00-preface.html)
 * [Hitchiker's Guide to Python](https://docs.python-guide.org/)
 * [Visualize code](http://pythontutor.com/visualize.html#mode=edit)
+* [Pandas Cheatsheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 
 ### Containers
 * [Docker cheat sheet](https://github.com/wsargent/docker-cheat-sheet)
