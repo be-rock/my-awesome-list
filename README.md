@@ -12,15 +12,16 @@
 * [Pandas Cheatsheet #2](https://s3.amazonaws.com/dq-blog-files/pandas-cheat-sheet.pdf)
 
 ### Containers
-* [Docker cheat sheet](https://github.com/wsargent/docker-cheat-sheet)
+* [Docker Cheatsheet](https://github.com/wsargent/docker-cheat-sheet)
 * [Docker tutorials](https://github.com/docker/labs)
-* [Kubernetes Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+* [Kubernetes Cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 
 ### Scala
 * [Python to Scala](https://wrobstory.gitbooks.io/python-to-scala/content/index.html)
 * [Essential Scala](https://books.underscore.io/essential-scala/essential-scala.html)
 
 ### Spark
+* [PySpark Cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_SQL_Cheat_Sheet_Python.pdf)
 * [Mastering Spark](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)
 * [Internals of Spark SQL](https://legacy.gitbook.com/book/jaceklaskowski/mastering-spark-sql/details)
 
