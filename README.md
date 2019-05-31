@@ -47,6 +47,8 @@
 ### Misc
 * [Free tech books](https://github.com/EbookFoundation/free-programming-books)
 * [How to Design Large-Scale Systems](https://github.com/donnemartin/system-design-primer)
+* [Clojure for the Brave and True](https://www.braveclojure.com/foreword/)
+* [Learn you Haskell for Great Good](http://learnyouahaskell.com/chapters)
 * https://www.codewars.com
 * https://www.leetcode.com
 
