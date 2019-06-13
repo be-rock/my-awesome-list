@@ -32,17 +32,19 @@
 
 ### Git
 * [A successful git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+* [Learn git concepts, not commands](https://github.com/UnseenWizzard/git_training)
 * [Git book](https://git-scm.com/book/en/v2)
 
 ### Productivity & Learning
 * [Pomodoro Timer](https://www.marinaratimer.com/)
 * [Learn Anything in 20 hours](https://www.youtube.com/watch?v=5MgBikgcWnY)
 
-### Linux/Unix
+### Linux
 * [`tree` command](http://mama.indstate.edu/users/ice/tree/)
 * [`bat` command - "a cat clone with wings"](https://github.com/sharkdp/bat)
 * [`vim` cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/vim.txt)
 * [`bash` cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh)
+* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
 ### Misc
 * [Free tech books](https://github.com/EbookFoundation/free-programming-books)
