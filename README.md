@@ -3,6 +3,7 @@
 ### Python
 * [Algorithms in Python](https://github.com/TheAlgorithms/Python)
 * [Design Patterns](https://github.com/faif/python-patterns)
+* [Design Patterns (Refactoring Guru)](https://refactoring.guru/design-patterns/python)
 * [Python Repository Structure](https://www.kennethreitz.org/essays/repository-structure-and-python)
 * [Cheat Sheet #1](https://github.com/crazyguitar/pysheeet)
 * [Cheat Sheet #2](https://github.com/wilfredinni/python-cheatsheet)
@@ -33,7 +34,6 @@
 
 ### Git
 * [A successful git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
-* [Learn git concepts, not commands](https://github.com/UnseenWizzard/git_training)
 * [Git book](https://git-scm.com/book/en/v2)
 
 ### Productivity & Learning
