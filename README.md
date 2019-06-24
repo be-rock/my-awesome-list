@@ -4,6 +4,7 @@
 * [Algorithms in Python](https://github.com/TheAlgorithms/Python)
 * [Design Patterns](https://github.com/faif/python-patterns)
 * [Design Patterns (Refactoring Guru)](https://refactoring.guru/design-patterns/python)
+* [Design Patterns in Python for the untrained eye](http://34.212.143.74/s201911/pycon2019/docs/design_patterns.html)
 * [Python Repository Structure](https://www.kennethreitz.org/essays/repository-structure-and-python)
 * [Cheat Sheet #1](https://github.com/crazyguitar/pysheeet)
 * [Cheat Sheet #2](https://github.com/wilfredinni/python-cheatsheet)
