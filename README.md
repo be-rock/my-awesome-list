@@ -13,8 +13,7 @@
 * [Visualize code](http://pythontutor.com/visualize.html#mode=edit)
 * Pandas
   * [Pandas Cheatsheet #1](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
-  * [Pandas Cheatsheet #2](https://s3.amazonaws.com/dq-blog-files/pandas-cheat-sheet.pdf)
-  * [Pandas Cheatsheet #3](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/pandas.pdf)
+  * [Pandas Cheatsheet #2](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/pandas.pdf)
 
 ### Containers
 * [Docker Cheatsheet](https://github.com/wsargent/docker-cheat-sheet)
