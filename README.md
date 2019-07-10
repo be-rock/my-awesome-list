@@ -36,6 +36,9 @@
 * [A successful git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 * [Git book](https://git-scm.com/book/en/v2)
 
+### Jenkins
+* [Jenkins Handbook](https://jenkins.io/doc/book/)
+
 ### Productivity & Learning
 * [Pomodoro Timer](https://www.marinaratimer.com/)
 * [Learn Anything in 20 hours](https://www.youtube.com/watch?v=5MgBikgcWnY)
