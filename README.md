@@ -36,7 +36,7 @@
 * [A successful git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 * [Git book](https://git-scm.com/book/en/v2)
 
-### Jenkins
+### CICD
 * [Jenkins Handbook](https://jenkins.io/doc/book/)
 
 ### Productivity & Learning
