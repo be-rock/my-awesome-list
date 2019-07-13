@@ -38,6 +38,7 @@
 
 ### CICD
 * [Jenkins Handbook](https://jenkins.io/doc/book/)
+* [Pipeline Examples](https://jenkins.io/doc/pipeline/examples/)
 
 ### Productivity & Learning
 * [Pomodoro Timer](https://www.marinaratimer.com/)
