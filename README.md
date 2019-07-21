@@ -2,8 +2,7 @@
 
 ### Python
 * [Algorithms in Python](https://github.com/TheAlgorithms/Python)
-* [Design Patterns](https://github.com/faif/python-patterns)
-* [Design Patterns (Refactoring Guru)](https://refactoring.guru/design-patterns/python)
+* [Python Design Patterns](https://github.com/faif/python-patterns)
 * [Design Patterns in Python for the untrained eye](http://34.212.143.74/s201911/pycon2019/docs/design_patterns.html)
 * [Python Repository Structure](https://www.kennethreitz.org/essays/repository-structure-and-python)
 * [Cheat Sheet #1](https://github.com/crazyguitar/pysheeet)
@@ -52,10 +51,13 @@
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
 ### Misc
+* [Database Modeling Tool](https://app.quickdatabasediagrams.com/#/)
+* [Design Patterns (Refactoring Guru)](https://refactoring.guru/design-patterns)]
+* [Refactoring (Refactoring Guru)](https://refactoring.guru/refactoring)
 * [Free tech books](https://github.com/EbookFoundation/free-programming-books)
 * [How to Design Large-Scale Systems](https://github.com/donnemartin/system-design-primer)
-* [Clojure for the Brave and True](https://www.braveclojure.com/foreword/)
 * [Learn you Haskell for Great Good](http://learnyouahaskell.com/chapters)
+* [Clojure for the Brave and True](https://www.braveclojure.com/foreword/)
 * https://www.codewars.com
 * https://www.leetcode.com
 
