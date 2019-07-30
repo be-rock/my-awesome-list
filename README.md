@@ -52,7 +52,7 @@
 
 ### Misc
 * [Database Modeling Tool](https://app.quickdatabasediagrams.com/#/)
-* [Design Patterns (Refactoring Guru)](https://refactoring.guru/design-patterns)]
+* [Design Patterns (Refactoring Guru)](https://refactoring.guru/design-patterns)
 * [Refactoring (Refactoring Guru)](https://refactoring.guru/refactoring)
 * [Free tech books](https://github.com/EbookFoundation/free-programming-books)
 * [How to Design Large-Scale Systems](https://github.com/donnemartin/system-design-primer)
