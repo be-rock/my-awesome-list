@@ -60,4 +60,5 @@
 * [Clojure for the Brave and True](https://www.braveclojure.com/foreword/)
 * https://www.codewars.com
 * https://www.leetcode.com
+* https://exercism.io
 
