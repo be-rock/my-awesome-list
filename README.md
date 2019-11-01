@@ -24,6 +24,7 @@
 * [Essential Scala](https://books.underscore.io/essential-scala/essential-scala.html)
 * [Scala API Docs](https://www.scala-lang.org/api/current/)
 * [Hello Scala](https://hello-scala.com/)
+* [Scala Exercises](https://www.scala-exercises.org/)
 
 ### Spark
 * [PySpark Cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_SQL_Cheat_Sheet_Python.pdf)
