@@ -34,6 +34,7 @@
 
 ### Git
 * [A successful git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+* [A simple git workflow](https://medium.com/@negarjf/use-git-more-efficiently-a-simple-git-workflow-c4e650289ec8)
 * [Git book](https://git-scm.com/book/en/v2)
 
 ### CICD
