@@ -54,6 +54,7 @@
 
 ### Misc
 * [Database Modeling Tool](https://app.quickdatabasediagrams.com/#/)
+* [Another Database Modeling Tool](https://dbdiagram.io/home)
 * [Design Patterns (Refactoring Guru)](https://refactoring.guru/design-patterns)
 * [Refactoring (Refactoring Guru)](https://refactoring.guru/refactoring)
 * [Free tech books](https://github.com/EbookFoundation/free-programming-books)
