@@ -20,8 +20,8 @@
 * [Kubernetes Cheatsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 
 ### Scala
+* [Essential Scala (ebook)](https://books.underscore.io/essential-scala/essential-scala.html)
 * [Python to Scala](https://wrobstory.gitbooks.io/python-to-scala/content/index.html)
-* [Essential Scala](https://books.underscore.io/essential-scala/essential-scala.html)
 * [Scala API Docs](https://www.scala-lang.org/api/current/)
 * [Hello Scala](https://hello-scala.com/)
 * [Scala Exercises](https://www.scala-exercises.org/)
