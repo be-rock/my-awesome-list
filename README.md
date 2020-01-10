@@ -7,6 +7,7 @@
 * [Python Repository Structure](https://www.kennethreitz.org/essays/repository-structure-and-python)
 * [Cheat Sheet #1](https://github.com/crazyguitar/pysheeet)
 * [Cheat Sheet #2](https://github.com/wilfredinni/python-cheatsheet)
+* [Cheat Sheet #3](https://gto76.github.io/python-cheatsheet/)
 * [Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/00.00-preface.html)
 * [Hitchiker's Guide to Python](https://docs.python-guide.org/)
 * [Visualize code](http://pythontutor.com/visualize.html#mode=edit)
