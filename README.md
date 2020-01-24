@@ -53,9 +53,11 @@
 * [`bash` cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh)
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
-### Misc
+### Database
 * [Database Modeling Tool](https://app.quickdatabasediagrams.com/#/)
 * [Another Database Modeling Tool](https://dbdiagram.io/home)
+
+### Misc
 * [Design Patterns (Refactoring Guru)](https://refactoring.guru/design-patterns)
 * [Refactoring (Refactoring Guru)](https://refactoring.guru/refactoring)
 * [Free tech books](https://github.com/EbookFoundation/free-programming-books)
