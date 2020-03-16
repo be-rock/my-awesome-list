@@ -52,6 +52,7 @@
 * [`vim` cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/vim.txt)
 * [`bash` cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh)
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+* [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml)
 
 ### Database
 * [Database Modeling Tool](https://app.quickdatabasediagrams.com/#/)
