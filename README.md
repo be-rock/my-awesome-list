@@ -10,6 +10,7 @@
 * [Cheat Sheet #3](https://gto76.github.io/python-cheatsheet/)
 * [Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/00.00-preface.html)
 * [Hitchiker's Guide to Python](https://docs.python-guide.org/)
+* [Cosmic Python](https://www.cosmicpython.com/book/preface.html)
 * [Visualize code](http://pythontutor.com/visualize.html#mode=edit)
 * Pandas
   * [Pandas Cheatsheet #1](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
