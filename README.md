@@ -66,6 +66,7 @@
 * [How to Design Large-Scale Systems](https://github.com/donnemartin/system-design-primer)
 * [Learn you Haskell for Great Good](http://learnyouahaskell.com/chapters)
 * [Clojure for the Brave and True](https://www.braveclojure.com/foreword/)
+* https://www.programming-idioms.org
 * https://www.codewars.com
 * https://www.leetcode.com
 * https://exercism.io
